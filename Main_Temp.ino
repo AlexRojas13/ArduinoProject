@@ -1,6 +1,6 @@
 #include <EEPROM.h>
 
-const int NUMERO_TEMPERATURAS = 40; // constante con el numero de temperaturas que guardamos, asi cambiando este valor se cambia en todo el programa.
+const int NUMERO_TEMPERATURAS = 30; // constante con el numero de temperaturas que guardamos, asi cambiando este valor se cambia en todo el programa.
 
   
   //--------------------------ESCRIBIR------------------------------------------
